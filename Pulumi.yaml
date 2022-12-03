@@ -1,0 +1,6 @@
+name: pulumi-codespaces
+description: Pulumi with Github Codespaces Example
+runtime:
+    name: python
+    options:
+        virtualenv: venv
