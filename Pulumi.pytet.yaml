@@ -1,4 +1,3 @@
-encryptionsalt: v1:GHFhQAMsJd0=:v1:vmnqsv3XJ18rBf3d:hsodcd3m3JZeKymN7t/dozmUeKqT/Q==
 config:
   azure-native:location: westeurope
   azure-native:subscriptionId: 469048f1-92af-4c71-a63b-330ec31d2b82
